@@ -6,6 +6,10 @@ Run `npm install` and then `npm run build` to build the plugin.
 
 The PowerShell script 'Build.ps1' builds and copies the plugin to the [Flare](https://github.com/timothyleerussell/flare) test bed project.
 
+### Example test bed
+
+[Flare](https://github.com/timothyleerussell/flare)
+
 # Credits
 
 [Phaser](https://github.com/photonstorm/phaser)  
