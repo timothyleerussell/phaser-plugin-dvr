@@ -10,7 +10,7 @@ The PowerShell script 'Build.ps1' builds and copies the plugin to the [Flare](ht
 
 Phaser
 Richard Davey <rich@photonstorm.com>  
-2018 Photon Storm Ltd. 
+2018 Photon Storm Ltd.  
 [Phaser](https://github.com/photonstorm/phaser)  
 
 =====
